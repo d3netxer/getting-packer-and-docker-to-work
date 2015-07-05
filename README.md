@@ -32,5 +32,10 @@ Finally, this is a good repo to get started on you packer scripts:
 
 https://github.com/eggsby/docker-ansible-packer
 
+#To Read:
+
+Packaging Django applications into Docker container images
+http://michal.karzynski.pl/blog/2015/04/19/packaging-django-applications-as-docker-container-images/
+
 
 
