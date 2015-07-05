@@ -37,5 +37,8 @@ https://github.com/eggsby/docker-ansible-packer
 Packaging Django applications into Docker container images
 http://michal.karzynski.pl/blog/2015/04/19/packaging-django-applications-as-docker-container-images/
 
+Running GUI apps with Docker:
+http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/
+
 
 
